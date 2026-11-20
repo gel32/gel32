@@ -10,15 +10,31 @@
 
 ---
 
-#### 🛠️ Tecnologías y herramientas
-![Python](https://shields.io)
-![Flask](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![PHP](https://shields.io)
-![SQL Server](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+#### Lenguajes y Frameworks
+![JavaScript](https://shields.io)
+![C#](https://shields.io)
+![.NET](https://shields.io)
+![CodeIgniter](https://shields.io)
+![Node.js](https://shields.io)
+![Bootstrap](https://shields.io)
+![Tailwind CSS](https://shields.io)
+
+#### Bases de Datos
+![MySQL](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+
+#### Cloud y DevOps
+![Microsoft Azure](https://shields.io)
+![Google Cloud](https://shields.io)
+![Docker](https://shields.io)
+
+#### Herramientas
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Postman](https://shields.io)
+![Linux](https://shields.io)
+
 
 ---
 
